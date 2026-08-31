@@ -19,6 +19,13 @@
 <p>
     <img
         src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white"/>
+## 🎵 Spotify Music :
+
+<p align="center">
+  <a href="https://spotify.com">
+    <img src="https://spotify-github-profile-5238.vercel.app/api/run-spotify-tracker" alt="Spotify Now Playing">
+  </a>
+</p>
     
 
 ```python
