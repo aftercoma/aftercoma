@@ -1,6 +1,6 @@
 <!-- Header Banner / GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/iIefQb5rh4fahlAJJ4/giphy.gif" width="100%" alt="Pixel Face GIF by AKLO">
+  <img src="https://media.giphy.com/media/iIefQb5rh4fahlAJJ4/giphy.gif" width="300" alt="Pixel Face GIF by AKLO">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
