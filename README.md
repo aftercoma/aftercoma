@@ -21,3 +21,16 @@
         src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white"/>
     
 
+```kotlin
+fun main() {
+    println("About Me 🧑‍💻")
+    val name = "Kiyo Editz"
+    println("My name is $name")
+    
+    val age = 19
+    val gender = "Male"
+    
+    println("Age : $age Th")
+    println("Gender : $gender")
+    println("Not Programmers 🤖")
+}
