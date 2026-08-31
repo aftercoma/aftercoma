@@ -1,5 +1,7 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-•	Code. Debug. Learn. Repeat
+<!-- Header Banner / GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/iIefQb5rh4fahlAJJ4/giphy.gif" width="100%" alt="Pixel Face GIF by AKLO">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -19,13 +21,7 @@
 <p>
     <img
         src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white"/>
-## 🎵 Spotify Music :
 
-<p align="center">
-  <a href="https://spotify.com">
-    <img src="https://spotify-github-profile-5238.vercel.app/api/run-spotify-tracker" alt="Spotify Now Playing">
-  </a>
-</p>
     
 
 ```python
